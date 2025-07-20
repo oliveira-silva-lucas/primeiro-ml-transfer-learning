@@ -3,7 +3,7 @@ Primeiro projeto de ML utilizando transfer learning
 
 ## 🎯 Objetivo Geral
 
-Projeto de aprendizagem, costumeiramente é utilizado a clasificação de imagens de cachorro vs gato, aumentei o escopo para também classificar jaguatirica e lobo-guará, animais silvestres que vivem no Brasil e tem caracterissticas similares a de cachorro e gatos.
+Projeto de aprendizagem, costumeiramente é utilizado a clasificação de imagens de cachorro vs gato, aumentei o escopo para também classificar jaguatirica e lobo-guará, animais silvestres que vivem no Brasil e tem características similares a de cachorro e gatos.
 
 Comparar o desempenho de dois modelos de classificação de imagens:
   - Um modelo de rede neural convolucional (CNN) treinado do zero.
